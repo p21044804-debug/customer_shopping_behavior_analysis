@@ -99,8 +99,6 @@ The Power BI dashboard visualizes:
 * Subscription behavior
 * Revenue distribution
 
-(Insert dashboard image if needed)
-
 ---
 
 ## 🧠 **Key Results & Insights**
@@ -162,13 +160,4 @@ project/
 
 ---
 
-## ⭐ **Why This Project Matters**
-
-This project showcases the full analytics lifecycle:
-
-* Data cleaning
-* EDA
-* SQL business analysis
-* Dashboard building
-* Storytelling through reports & presentations
 
