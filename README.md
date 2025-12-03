@@ -115,9 +115,7 @@ The Power BI dashboard visualizes:
 
 ### **1. Clone the Repo**
 
-```
-git clone https://github.com/yourusername/your-repo-name.git
-```
+git clone https://github.com/p21044804-debug/customer_shopping_behavior_analysis.git
 
 ### **2. Open Jupyter Notebook**
 
@@ -144,20 +142,4 @@ Load the `.pbix` file to view the dashboard.
 Open the files inside `/reports` and `/presentation`.
 
 ---
-
-## 📁 **Folder Structure**
-
-```
-project/
-│── data/
-│── notebooks/
-│── sql/
-│── powerbi/
-│── reports/
-│── presentation/
-│── README.md
-```
-
----
-
 
